@@ -294,7 +294,7 @@ margin-right: 10px;
     /*Ajustes especificos para la vista movil*/
     /*0 hasta 768px*/
 
-    @media only screen and (max-width: 768px) {
+    @media (max-width: 768px) {
         /*Aceites*/
 
         .contenedorAceites {
